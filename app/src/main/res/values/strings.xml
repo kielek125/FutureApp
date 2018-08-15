@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FutureApp</string>
+    <string name="teleportation">Teleportacja</string>
+    <string name="askGod">Rozmowa z Bogiem</string>
+    <string name="connectWithAlien">Kontakt z obcymi</string>
+    <string name="futureTravel">Podróże w przyszłość</string>
+    <string name="askAboutFuture">Zapytaj o przyszłość</string>
+    <string name="backToPast">Wspomnienia z przeszłości</string>
+    <string name="eternalLife">Życie wieczne</string>
+    <string name="giveMoney">Otrzymaj pieniądze</string>
+
+    <string name="exitApp">Zamknij</string>
+    <string name="infoApp">O aplikacji</string>
+    <string name="donate">Donate</string>
+    <string name="optionsApp">Opcje</string>
+</resources>
